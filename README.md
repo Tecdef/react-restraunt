@@ -1,1 +1,1 @@
-# react-restraunt
+# react-restaurant
