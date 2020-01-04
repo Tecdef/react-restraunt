@@ -16,24 +16,24 @@ self.__precacheManifest = [
     "url": "/react-restaurant/static/js/2.fd970a44.chunk.js"
   },
   {
-    "revision": "4c3fb584d3f63821357c8a9cff97f360",
-    "url": "/react-restaurant/static/media/haymaker-webfont.4c3fb584.eot"
-  },
-  {
     "revision": "751e56274d3ea1c651ea824f902bb987",
     "url": "/react-restaurant/static/media/haymaker-webfont.751e5627.woff"
   },
   {
-    "revision": "d2f8799a13e6db2022d9a7de22776705",
-    "url": "/react-restaurant/static/media/anchor.d2f8799a.svg"
+    "revision": "4c3fb584d3f63821357c8a9cff97f360",
+    "url": "/react-restaurant/static/media/haymaker-webfont.4c3fb584.eot"
+  },
+  {
+    "revision": "e9535f20ca175cc3fdfe2816f7c47168",
+    "url": "/react-restaurant/static/media/haymaker-webfont.e9535f20.ttf"
   },
   {
     "revision": "5379481372bb73ffdee7",
     "url": "/react-restaurant/static/js/main.5d851ccc.chunk.js"
   },
   {
-    "revision": "e9535f20ca175cc3fdfe2816f7c47168",
-    "url": "/react-restaurant/static/media/haymaker-webfont.e9535f20.ttf"
+    "revision": "d2f8799a13e6db2022d9a7de22776705",
+    "url": "/react-restaurant/static/media/anchor.d2f8799a.svg"
   },
   {
     "revision": "73a576a8254aeafebcdc66fe9fd41ac8",
